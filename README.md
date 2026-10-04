@@ -63,6 +63,28 @@ DigitalEmployee 数字员工（资产包）
 | [`local-retention-zh`](https://github.com/bangwozuo/local-retention-zh) | 复购管家 | 本地生活商家 | 5 | 5 | 私域复购管家 |
 | [`daily-report-zh`](https://github.com/bangwozuo/daily-report-zh) | 经营日报员 | 本地生活商家 | 3 | 4 | 门店经营日报分析师 |
 
+
+### 演示视频总览（134 支 · 每资产一支真实执行录播）
+
+每个数字员工仓的每个技能 / 工作流 README 内嵌「▶ 观看演示视频」入口，
+视频为 **24fps 真实执行录播**：命令逐字敲入 → 真实输出流式滚动 → 数据可视化（按检测/创作/数据/流转四族分化），全部来自脚本实跑产物，无摆拍。
+
+| 数字员工 | 合集视频（3 资产串接） | 动图预览（点击看合集） |
+|---|---|---|
+| **出海增长官** [`coldstart-growth-zh`](https://github.com/bangwozuo/coldstart-growth-zh) | [▶ 观看合集](https://github.com/bangwozuo/coldstart-growth-zh/blob/main/docs/demo.mp4) | [![hero](https://raw.githubusercontent.com/bangwozuo/coldstart-growth-zh/main/docs/assets/hero.gif)](https://github.com/bangwozuo/coldstart-growth-zh/blob/main/docs/demo.mp4) |
+| **发布指挥官** [`launch-commander-zh`](https://github.com/bangwozuo/launch-commander-zh) | [▶ 观看合集](https://github.com/bangwozuo/launch-commander-zh/blob/main/docs/demo.mp4) | [![hero](https://raw.githubusercontent.com/bangwozuo/launch-commander-zh/main/docs/assets/hero.gif)](https://github.com/bangwozuo/launch-commander-zh/blob/main/docs/demo.mp4) |
+| **选题策划师** [`topic-planner-zh`](https://github.com/bangwozuo/topic-planner-zh) | [▶ 观看合集](https://github.com/bangwozuo/topic-planner-zh/blob/main/docs/demo.mp4) | [![hero](https://raw.githubusercontent.com/bangwozuo/topic-planner-zh/main/docs/assets/hero.gif)](https://github.com/bangwozuo/topic-planner-zh/blob/main/docs/demo.mp4) |
+| **脚本创作师** [`script-writer-zh`](https://github.com/bangwozuo/script-writer-zh) | [▶ 观看合集](https://github.com/bangwozuo/script-writer-zh/blob/main/docs/demo.mp4) | [![hero](https://raw.githubusercontent.com/bangwozuo/script-writer-zh/main/docs/assets/hero.gif)](https://github.com/bangwozuo/script-writer-zh/blob/main/docs/demo.mp4) |
+| **评论运营官** [`engagement-ops-zh`](https://github.com/bangwozuo/engagement-ops-zh) | [▶ 观看合集](https://github.com/bangwozuo/engagement-ops-zh/blob/main/docs/demo.mp4) | [![hero](https://raw.githubusercontent.com/bangwozuo/engagement-ops-zh/main/docs/assets/hero.gif)](https://github.com/bangwozuo/engagement-ops-zh/blob/main/docs/demo.mp4) |
+| **商品视觉师** [`product-visual-zh`](https://github.com/bangwozuo/product-visual-zh) | [▶ 观看合集](https://github.com/bangwozuo/product-visual-zh/blob/main/docs/demo.mp4) | [![hero](https://raw.githubusercontent.com/bangwozuo/product-visual-zh/main/docs/assets/hero.gif)](https://github.com/bangwozuo/product-visual-zh/blob/main/docs/demo.mp4) |
+| **店铺客服官** [`shop-support-zh`](https://github.com/bangwozuo/shop-support-zh) | [▶ 观看合集](https://github.com/bangwozuo/shop-support-zh/blob/main/docs/demo.mp4) | [![hero](https://raw.githubusercontent.com/bangwozuo/shop-support-zh/main/docs/assets/hero.gif)](https://github.com/bangwozuo/shop-support-zh/blob/main/docs/demo.mp4) |
+| **评价运营官** [`review-manager-zh`](https://github.com/bangwozuo/review-manager-zh) | [▶ 观看合集](https://github.com/bangwozuo/review-manager-zh/blob/main/docs/demo.mp4) | [![hero](https://raw.githubusercontent.com/bangwozuo/review-manager-zh/main/docs/assets/hero.gif)](https://github.com/bangwozuo/review-manager-zh/blob/main/docs/demo.mp4) |
+| **Listing 文案师** [`listing-copy-zh`](https://github.com/bangwozuo/listing-copy-zh) | [▶ 观看合集](https://github.com/bangwozuo/listing-copy-zh/blob/main/docs/demo.mp4) | [![hero](https://raw.githubusercontent.com/bangwozuo/listing-copy-zh/main/docs/assets/hero.gif)](https://github.com/bangwozuo/listing-copy-zh/blob/main/docs/demo.mp4) |
+| **探店编导** [`local-content-zh`](https://github.com/bangwozuo/local-content-zh) | [▶ 观看合集](https://github.com/bangwozuo/local-content-zh/blob/main/docs/demo.mp4) | [![hero](https://raw.githubusercontent.com/bangwozuo/local-content-zh/main/docs/assets/hero.gif)](https://github.com/bangwozuo/local-content-zh/blob/main/docs/demo.mp4) |
+| **口碑捍卫者** [`review-firefighter-zh`](https://github.com/bangwozuo/review-firefighter-zh) | [▶ 观看合集](https://github.com/bangwozuo/review-firefighter-zh/blob/main/docs/demo.mp4) | [![hero](https://raw.githubusercontent.com/bangwozuo/review-firefighter-zh/main/docs/assets/hero.gif)](https://github.com/bangwozuo/review-firefighter-zh/blob/main/docs/demo.mp4) |
+| **复购管家** [`local-retention-zh`](https://github.com/bangwozuo/local-retention-zh) | [▶ 观看合集](https://github.com/bangwozuo/local-retention-zh/blob/main/docs/demo.mp4) | [![hero](https://raw.githubusercontent.com/bangwozuo/local-retention-zh/main/docs/assets/hero.gif)](https://github.com/bangwozuo/local-retention-zh/blob/main/docs/demo.mp4) |
+| **经营日报员** [`daily-report-zh`](https://github.com/bangwozuo/daily-report-zh) | [▶ 观看合集](https://github.com/bangwozuo/daily-report-zh/blob/main/docs/demo.mp4) | [![hero](https://raw.githubusercontent.com/bangwozuo/daily-report-zh/main/docs/assets/hero.gif)](https://github.com/bangwozuo/daily-report-zh/blob/main/docs/demo.mp4) |
+
 ### P1 二期（12 个） · 规划中
 
 | 仓库 | 数字员工 | 客群 | 技能 | 工作流 | 旧名存档 |
