@@ -5,7 +5,7 @@
 
 | 数字员工 | 原子技能 | 场景工作流 | 覆盖行业/客群 | 更新 |
 |---|---|---|---|---|
-| **30** | 160 | 140 | 4 大客群 | 2026-09-29 |
+| **30** | 160 | 140 | 4 大客群 | 2026-10-08 |
 
 ---
 
@@ -43,7 +43,8 @@ DigitalEmployee 数字员工（资产包）
 ## 交付状态
 
 - ✅ **P0 首发 13 个数字员工已完整交付**（2,626 文件 / 73 技能 / 61 工作流 / 1,340 份资产级文档 / 1,675 项资产校验全通过）
-- ⏳ P1 二期 12 个、P2 后期 5 个（交付标准与 P0 一致，生成器 `--stage` 一键切换）
+- ✅ **P1 二期 12 个数字员工已完整交付**（4,626 文件 / 64 技能 / 58 工作流 / 122 支资产演示视频 / 1,504 项结构校验全通过）
+- ⏳ P2 后期 5 个（交付标准与 P0/P1 一致，生成器 `--stage` 一键切换）
 
 ### P0 首发（13 个） · 已交付
 
@@ -64,7 +65,7 @@ DigitalEmployee 数字员工（资产包）
 | [`daily-report-zh`](https://github.com/bangwozuo/daily-report-zh) | 经营日报员 | 本地生活商家 | 3 | 4 | 门店经营日报分析师 |
 
 
-### 演示视频总览（134 支 · 每资产一支真实执行录播）
+### 演示视频总览（256 支 · 每资产一支真实执行录播）
 
 每个数字员工仓的每个技能 / 工作流 README 内嵌「▶ 观看演示视频」入口，
 视频为 **24fps 真实执行录播**：命令逐字敲入 → 真实输出流式滚动 → 数据可视化（按检测/创作/数据/流转四族分化），全部来自脚本实跑产物，无摆拍。
@@ -84,8 +85,20 @@ DigitalEmployee 数字员工（资产包）
 | **口碑捍卫者** [`review-firefighter-zh`](https://github.com/bangwozuo/review-firefighter-zh) | [▶ 观看合集](https://cdn.jsdelivr.net/gh/bangwozuo/review-firefighter-zh@main/docs/demo.mp4) | [![hero](https://cdn.jsdelivr.net/gh/bangwozuo/review-firefighter-zh@main/docs/assets/hero.gif)](https://cdn.jsdelivr.net/gh/bangwozuo/review-firefighter-zh@main/docs/demo.mp4) |
 | **复购管家** [`local-retention-zh`](https://github.com/bangwozuo/local-retention-zh) | [▶ 观看合集](https://cdn.jsdelivr.net/gh/bangwozuo/local-retention-zh@main/docs/demo.mp4) | [![hero](https://cdn.jsdelivr.net/gh/bangwozuo/local-retention-zh@main/docs/assets/hero.gif)](https://cdn.jsdelivr.net/gh/bangwozuo/local-retention-zh@main/docs/demo.mp4) |
 | **经营日报员** [`daily-report-zh`](https://github.com/bangwozuo/daily-report-zh) | [▶ 观看合集](https://cdn.jsdelivr.net/gh/bangwozuo/daily-report-zh@main/docs/demo.mp4) | [![hero](https://cdn.jsdelivr.net/gh/bangwozuo/daily-report-zh@main/docs/assets/hero.gif)](https://cdn.jsdelivr.net/gh/bangwozuo/daily-report-zh@main/docs/demo.mp4) |
+| **SEO 架构师** [`seo-matrix-zh`](https://github.com/bangwozuo/seo-matrix-zh) | [▶ 观看合集](https://cdn.jsdelivr.net/gh/bangwozuo/seo-matrix-zh@main/docs/demo.mp4) | [![hero](https://cdn.jsdelivr.net/gh/bangwozuo/seo-matrix-zh@main/docs/assets/hero.gif)](https://cdn.jsdelivr.net/gh/bangwozuo/seo-matrix-zh@main/docs/demo.mp4) |
+| **反馈分析师** [`feedback-hub-zh`](https://github.com/bangwozuo/feedback-hub-zh) | [▶ 观看合集](https://cdn.jsdelivr.net/gh/bangwozuo/feedback-hub-zh@main/docs/demo.mp4) | [![hero](https://cdn.jsdelivr.net/gh/bangwozuo/feedback-hub-zh@main/docs/assets/hero.gif)](https://cdn.jsdelivr.net/gh/bangwozuo/feedback-hub-zh@main/docs/demo.mp4) |
+| **分发中控** [`multi-publish-zh`](https://github.com/bangwozuo/multi-publish-zh) | [▶ 观看合集](https://cdn.jsdelivr.net/gh/bangwozuo/multi-publish-zh@main/docs/demo.mp4) | [![hero](https://cdn.jsdelivr.net/gh/bangwozuo/multi-publish-zh@main/docs/assets/hero.gif)](https://cdn.jsdelivr.net/gh/bangwozuo/multi-publish-zh@main/docs/demo.mp4) |
+| **引流转化师** [`funnel-builder-zh`](https://github.com/bangwozuo/funnel-builder-zh) | [▶ 观看合集](https://cdn.jsdelivr.net/gh/bangwozuo/funnel-builder-zh@main/docs/demo.mp4) | [![hero](https://cdn.jsdelivr.net/gh/bangwozuo/funnel-builder-zh@main/docs/assets/hero.gif)](https://cdn.jsdelivr.net/gh/bangwozuo/funnel-builder-zh@main/docs/demo.mp4) |
+| **分发改写师** [`cross-post-zh`](https://github.com/bangwozuo/cross-post-zh) | [▶ 观看合集](https://cdn.jsdelivr.net/gh/bangwozuo/cross-post-zh@main/docs/demo.mp4) | [![hero](https://cdn.jsdelivr.net/gh/bangwozuo/cross-post-zh@main/docs/assets/hero.gif)](https://cdn.jsdelivr.net/gh/bangwozuo/cross-post-zh@main/docs/demo.mp4) |
+| **数据复盘师** [`data-recap-zh`](https://github.com/bangwozuo/data-recap-zh) | [▶ 观看合集](https://cdn.jsdelivr.net/gh/bangwozuo/data-recap-zh@main/docs/demo.mp4) | [![hero](https://cdn.jsdelivr.net/gh/bangwozuo/data-recap-zh@main/docs/assets/hero.gif)](https://cdn.jsdelivr.net/gh/bangwozuo/data-recap-zh@main/docs/demo.mp4) |
+| **多店运营官** [`multi-shop-ops-zh`](https://github.com/bangwozuo/multi-shop-ops-zh) | [▶ 观看合集](https://cdn.jsdelivr.net/gh/bangwozuo/multi-shop-ops-zh@main/docs/demo.mp4) | [![hero](https://cdn.jsdelivr.net/gh/bangwozuo/multi-shop-ops-zh@main/docs/assets/hero.gif)](https://cdn.jsdelivr.net/gh/bangwozuo/multi-shop-ops-zh@main/docs/demo.mp4) |
+| **店铺编导** [`shop-video-zh`](https://github.com/bangwozuo/shop-video-zh) | [▶ 观看合集](https://cdn.jsdelivr.net/gh/bangwozuo/shop-video-zh@main/docs/demo.mp4) | [![hero](https://cdn.jsdelivr.net/gh/bangwozuo/shop-video-zh@main/docs/assets/hero.gif)](https://cdn.jsdelivr.net/gh/bangwozuo/shop-video-zh@main/docs/demo.mp4) |
+| **选品分析师** [`product-research-zh`](https://github.com/bangwozuo/product-research-zh) | [▶ 观看合集](https://cdn.jsdelivr.net/gh/bangwozuo/product-research-zh@main/docs/demo.mp4) | [![hero](https://cdn.jsdelivr.net/gh/bangwozuo/product-research-zh@main/docs/assets/hero.gif)](https://cdn.jsdelivr.net/gh/bangwozuo/product-research-zh@main/docs/demo.mp4) |
+| **团购设计师** [`groupbuy-designer-zh`](https://github.com/bangwozuo/groupbuy-designer-zh) | [▶ 观看合集](https://cdn.jsdelivr.net/gh/bangwozuo/groupbuy-designer-zh@main/docs/demo.mp4) | [![hero](https://cdn.jsdelivr.net/gh/bangwozuo/groupbuy-designer-zh@main/docs/assets/hero.gif)](https://cdn.jsdelivr.net/gh/bangwozuo/groupbuy-designer-zh@main/docs/demo.mp4) |
+| **排班调度师** [`appointment-scheduler-zh`](https://github.com/bangwozuo/appointment-scheduler-zh) | [▶ 观看合集](https://cdn.jsdelivr.net/gh/bangwozuo/appointment-scheduler-zh@main/docs/demo.mp4) | [![hero](https://cdn.jsdelivr.net/gh/bangwozuo/appointment-scheduler-zh@main/docs/assets/hero.gif)](https://cdn.jsdelivr.net/gh/bangwozuo/appointment-scheduler-zh@main/docs/demo.mp4) |
+| **会员唤醒师** [`member-reactivation-zh`](https://github.com/bangwozuo/member-reactivation-zh) | [▶ 观看合集](https://cdn.jsdelivr.net/gh/bangwozuo/member-reactivation-zh@main/docs/demo.mp4) | [![hero](https://cdn.jsdelivr.net/gh/bangwozuo/member-reactivation-zh@main/docs/assets/hero.gif)](https://cdn.jsdelivr.net/gh/bangwozuo/member-reactivation-zh@main/docs/demo.mp4) |
 
-### P1 二期（12 个） · 规划中
+### P1 二期（12 个） · 已交付
 
 | 仓库 | 数字员工 | 客群 | 技能 | 工作流 | 旧名存档 |
 |------|----------|------|-----:|-------:|----------|
